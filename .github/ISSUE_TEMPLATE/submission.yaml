@@ -1,0 +1,100 @@
+name: Hackathon Submission
+description: Add a hackathon submission
+title: "[Project]: "
+labels: ["submission", "needreview"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for participating in the hackathon and creating your submission!
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      description: Enter your full name
+      placeholder: Aditya Oberai
+    validations:
+      required: true
+  - type: input
+    id: email
+    attributes:
+      label: Email Address
+      description: Enter your email address
+      placeholder: foo@bar.com
+    validations:
+      required: true
+  - type: input
+    id: team-emails
+    attributes:
+      label: Email Addresses of Team Members
+      description: Enter the email addresses of you team members separated by commas (if you have any)
+      placeholder: foo1@bar.com, foo2@bar.com, foo3@bar.com,...
+    validations:
+      required: false
+  - type: textarea
+    id: description
+    attributes:
+      label: Project Description
+      description: What have you built during the hackathon?
+      placeholder: The project I created is...
+    validations:
+      required: true
+  - type: textarea
+    id: inspiration
+    attributes:
+      label: Inspiration behind the Project
+      description: What is the story behind this project? Why did you choose to work on this specific idea?
+      placeholder: The reason I chose this idea/project was...
+    validations:
+      required: true
+  - type: textarea
+    id: tech-stack
+    attributes:
+      label: Tech Stack
+      description: How have you built this project? Mention the technologies/methods/platforms you used to build your project
+      placeholder: The technologies I used...
+    validations:
+      required: true
+  - type: dropdown
+    id: track
+    attributes:
+      label: Hackathon Track
+      description: What hackathon track are you opting in?
+      options:
+        - Track 1
+        - Track 2
+        - Track 3
+        - Track 4
+    validations:
+      required: true
+  - type: input
+    id: project-link
+    attributes:
+      label: Project Repo
+      description: Share a public repo link of your project
+      placeholder: https://github.com/code-capture/CodeCapture-Xamarin
+    validations:
+      required: true
+  - type: input
+    id: demo-link
+    attributes:
+      label: Demo Video/Photos
+      description: Share a publicly visible demo video/photos link of your project
+      placeholder: https://www.youtube.com/watch?v=9IBaX1avYWc
+    validations:
+      required: false
+  - type: textarea
+    id: anything-else
+    attributes:
+      label: Anything Else?
+      description: Any other feedback, queries or information, you would like to share with us?
+    validations:
+      required: false
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Rules and Code of Conduct
+      description: By submitting this issue, you agree to follow our Rules and Code of Conduct.
+      options:
+        - label: I agree to follow this hackathon's Rules and Code of Conduct
+          required: true
