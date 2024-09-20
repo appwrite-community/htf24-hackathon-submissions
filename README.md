@@ -68,3 +68,9 @@ All participants must agree to the [Rules](RULES.md) and [Code of Conduct](CODE_
 
 3. Do I have to use any specific Appwrite product during the hackathon?
     - You can use any Appwrite product that you like. However, it is mandatory to use Appwrite Cloud for the hackathon. You can grab some Cloud credits for the hackathon by clicking [here](https://apwr.dev/hacktoberfest).
+
+4. Does everyone on a winning team recieve a prize?
+    - If there is more than one member on a winning team, each member will receive the specified prize.
+
+5. Are there any specific themes than a project must fit within?
+    - No, there are not any specified themes. Hackers are free to build on whatever idea they like.
