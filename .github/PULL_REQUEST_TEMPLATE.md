@@ -10,12 +10,15 @@ Aditya Oberai
 -->
 
 ## GitHub handles of Team Members  
-_Enter the GitHub handles of your team members separated by commas (if you have any)_
+_Enter the GitHub handles of all your team members (including yourself) as separate bullet points_
 
 <!--
 
 - @adityaoberai
 - @tessamero
+.
+.
+.
 
 -->
 
