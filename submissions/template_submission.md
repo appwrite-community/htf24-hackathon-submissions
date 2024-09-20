@@ -42,7 +42,7 @@ The reason I chose this idea/project was...
 -->
 
 ## Tech Stack    
-_How have you built this project? Mention the technologies/methods/platforms you used to build your project_
+_How have you built this project? Mention the technologies/methods/platforms you used to build your project. Highlight any Appwrite products used separately._
 
 <!--
 
