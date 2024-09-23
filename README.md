@@ -46,6 +46,8 @@ Projects will be judged based on the following criteria:
 
 Follow the steps to submit your project in the hackathon:
 
+- [Sign up](https://apwr.dev/htf24-hackathon) for the Hackathon (if you haven't already).
+
 - Create a new branch/fork with the same name as your project title.
 
 - Visit the `submissions/` directory and create a copy of the `template_submission.md` with the same filename as your project title.
@@ -64,12 +66,12 @@ All participants must agree to the [Rules](RULES.md) and [Code of Conduct](CODE_
     - 1 - 4 people
 
 2. Is it mandatory for all hackers to register on the [Hackathon Sign Up page](https://apwr.dev/htf24-hackathon)?
-    - Yes
+    - Yes, this is mandatory for all hackers, even if you are a part of a team. Any participants who make submissions without registering will be disqualified from the final prizes.
 
 3. Do I have to use any specific Appwrite product during the hackathon?
     - You can use any Appwrite product that you like. However, it is mandatory to use Appwrite Cloud for the hackathon. You can grab some Cloud credits for the hackathon by clicking [here](https://apwr.dev/hacktoberfest).
 
-4. Does everyone on a winning team recieve a prize?
+4. Does everyone on a winning team receive a prize?
     - If there is more than one member on a winning team, each member will receive the specified prize.
 
 5. Are there any specific themes than a project must fit within?
