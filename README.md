@@ -4,7 +4,6 @@
 
 - [Timeline](#timeline)
 - [Prizes](#prizes)
-- [Judging Parameters](#judging-parameters)
 - [How To Submit Your Project?](#how-to-submit-your-project)
 - [Rules and Code of Conduct](#rules-and-code-of-conduct)
 - [FAQ](#faq)
@@ -22,25 +21,6 @@
 - **2nd and 3rd Prize**
 
   - Appwrite swag (hoodies and stickers)
-
-## Judging Parameters
-
-Projects will be judged based on the following criteria:
-
-1. **Product Thinking**
-    - Usefulness of the project in a real-world scenario.
-    - Completeness of the features implemented.
-
-2. **UI/UX**
-    - The overall look, layout, color usage, and positioning in the application.
-
-3. **Code**
-    - `(clean code, proper naming conventions, use of linter);`
-    - Use of best practices.
-
-4. **Usage of Appwrite**
-    - Is Appwrite central to the functioning of your project?
-    - How many and how well the different Appwrite services have been leveraged
 
 ## How To Submit Your Project?
 
