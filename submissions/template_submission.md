@@ -42,7 +42,7 @@ The reason I chose this idea/project was...
 -->
 
 ## Tech Stack    
-_How have you built this project? Mention the technologies/methods/platforms you used to build your project. Highlight any Appwrite products used separately._
+_How have you built this project? Mention the technologies/methods/platforms you used to build your project._
 
 <!--
 
@@ -50,6 +50,24 @@ The technologies I used...
 
 -->
 
+### Usage of Appwrite
+_Highlight any Appwrite products used within the project._
+
+<!--
+
+- Appwrite Databases
+
+I used Appwrite Databases to...
+
+- Appwrite Storage
+
+I used Appwrite Storage to...
+
+.
+.
+.
+
+-->
 
 ## Project Repo  
 _Share a public repo link of your project_
