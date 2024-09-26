@@ -26,7 +26,13 @@
 
 Follow the steps to submit your project in the hackathon:
 
-- [Sign up](https://apwr.dev/htf24-hackathon) for the Hackathon (if you haven't already).
+### Step 1: Sign up
+
+- [Register](https://hacktoberfest.com/) for Hacktoberfest.
+
+- [Sign up](https://apwr.dev/htf24-hackathon) for the Hackathon (this must be done by all your team members).
+
+### Step 2: Add project submission to this repo
 
 - Create a new branch/fork with the same name as your project title.
 
