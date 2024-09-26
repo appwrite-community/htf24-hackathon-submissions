@@ -62,3 +62,6 @@ All participants must agree to the [Rules](RULES.md) and [Code of Conduct](CODE_
 
 5. Are there any specific themes than a project must fit within?
     - No, there are not any specified themes. Hackers are free to build on whatever idea they like.
+
+6. Who should I reach out to in case I need help building with Appwrite?
+    - You can ask for help from the Appwrite team and our community of developers in our [Discord server](https://appwrite.io/discord).
