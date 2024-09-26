@@ -31,6 +31,6 @@
 
 - There are no specified themes. Hackers are free to build on whatever idea they like.
 
-- The intellectual property of your code belongs only to your team.
+- The code for your project must be open-source. The intellectual property of your code belongs only to your team.
 
 - By participating in the hackathon, you agree to the [Code of Conduct](CODE_OF_CONDUCT.md).
