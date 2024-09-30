@@ -31,6 +31,6 @@
 
 - There are no specified themes. Hackers are free to build on whatever idea they like.
 
-- The code for your project must be open-source. The intellectual property of your code belongs only to your team.
+- The code for your project must be open-source and it is mandatory to share a link of your code repo in the submission. Please note that the repo can be on your own account and the codebase of your project need not be added to this repo. The intellectual property of your code belongs only to your team.
 
 - By participating in the hackathon, you agree to the [Code of Conduct](CODE_OF_CONDUCT.md).
