@@ -22,6 +22,10 @@
 
   - Appwrite swag (hoodies and stickers)
 
+- **1 Random winner** (selected from all submissions)
+
+  - Appwrite swag (hoodies and stickers)
+
 ## How To Submit Your Project?
 
 Follow the steps to submit your project in the hackathon:
