@@ -78,11 +78,14 @@ https://github.com/code-capture/CodeCapture-Xamarin
 
 -->
 
-## Demo Video/Photos  
-_Share a 2-3 minute demo video of your project_
+## Demo Video/Photos/Link
+_Share a 2-3 minute demo video or photos or a deployed link of your project_
 
 <!--
 
 https://www.youtube.com/watch?v=9IBaX1avYWc
 
 -->
+
+## Anything Else You Want To Share With Us?
+
