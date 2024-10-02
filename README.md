@@ -46,6 +46,8 @@ Follow the steps to submit your project in the hackathon:
 
 - Create a pull request.
 
+*Note: Step 2 must only be completed by only one member of your team if you have multiple team members.*
+
 ## Rules and Code of Conduct
 
 All participants must agree to the [Rules](RULES.md) and [Code of Conduct](CODE_OF_CONDUCT.md) to participate in the Hackathon.
