@@ -1,0 +1,17 @@
+Project Name: Online marketplace website
+Team Members: Kunal Harinkhede
+Project Title: MajorProject
+Project Description: This project is related to the online marketplace, which enables users to upload their homes/villas on rent
+for the short period of time for the tourist or peoples who wish to enjoy their vacation in such a amazing villas. In this project
+there are two types of users one who upload his home on rent and other who book this home. 
+Inspiration behind project: Inspiration behind project is that one of my relatives having such a amazing villas and they facing
+problems regarding advertisement of their villas for the tourists then to solve such type of problems one idea had clicked on my
+mind that we can developed such a type of website that helps peoples to upload their villas on rent and also other user who want
+to book villas on rent.
+Tech Stack: I have builded this by using MERN stack technology, that is i used expressjs, nodejs, and mongodb as a database. And
+for frontend design i used BootStrap and Tailwind, for online storage of images of villas/houses i used cloudinary, and to show
+the location on the web page of the villas/houses place i used mapbox. And for the simplicity to develope this website i used 
+different packages. and finally for the deployment i used render service provider with free of cost.
+Usage of Appwriter: I have not used any Appwriter product here.
+Project repo: https://github.com/KunalHarinkhede-27/MajorProject
+Deployed link of my project: https://major-project-3a59.onrender.com/listings
