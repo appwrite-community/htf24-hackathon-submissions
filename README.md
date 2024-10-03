@@ -71,3 +71,10 @@ All participants must agree to the [Rules](RULES.md) and [Code of Conduct](CODE_
 
 6. Who should I reach out to in case I need help building with Appwrite?
     - You can ask for help from the Appwrite team and our community of developers in our [Discord server](https://appwrite.io/discord).
+  
+7. How can I learn how to build with Appwrite?
+    - You can:
+      - Learn how to build with Appwrite through the [Appwrite Docs](https://appwrite.io/docs).
+      - Find tutorials and blogs on Appwrite's services at the [Appwrite blog](https://appwrite.io/blog).
+      - View our livestreams and video content at the [Appwrite YouTube channel](https://youtube.com/c/Appwrite).
+      - Discover our community-made projects at the [Awesome Appwrite repo](https://github.com/appwrite/awesome-appwrite) and the [Built With Appwrite website](https://builtwith.appwrite.io/).
