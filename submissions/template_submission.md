@@ -1,9 +1,18 @@
-# Hackathon Submission: EXPENSIS
+# Hackathon Submission: <PROJECT_NAME>
 
 
 ## GitHub handles of Team Members  
+_Enter the GitHub handles of all your team members (including yourself) as separate bullet points_
 
-- vagxrth
+<!--
+
+- @adityaoberai
+- @tessamero
+.
+.
+.
+
+-->
 
 ## Project Title
 _What is the name of your project?_
@@ -79,4 +88,3 @@ https://www.youtube.com/watch?v=9IBaX1avYWc
 -->
 
 ## Anything Else You Want To Share With Us?
-

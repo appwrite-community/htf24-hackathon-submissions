@@ -1,91 +1,50 @@
-# Hackathon Submission: <PROJECT_NAME>
+# Hackathon Submission: EXPENSIS
 
 
 ## GitHub handles of Team Members  
-_Enter the GitHub handles of all your team members (including yourself) as separate bullet points_
 
-<!--
-
-- @adityaoberai
-- @tessamero
-.
-.
-.
-
--->
+- @vagxrth
 
 ## Project Title
-_What is the name of your project?_
 
-<!--
+Expensis: Your Finances, Simplified in Seconds
 
-CodeCapture
+## Project Description
 
--->
+Expensis is an innovative online banking platform designed to connect all your bank accounts in one place. Seamlessly view real-time transactions, manage finances effortlessly, and transfer money instantly to other platform users.
 
-## Project Description    
-_What have you built during the hackathon?_
 
-<!--
+## Inspiration behind the Project
 
-The project I created is...
+The inspiration behind this project came from the realization that most finance applications function like basic to-do lists, requiring users to manually input their expenses and transactions, making it cumbersome to truly track finances efficiently.
 
--->
-
-## Inspiration behind the Project  
-_What is the story behind this project? Why did you choose to work on this specific idea?_
-
-<!--
-
-The reason I chose this idea/project was...
-
--->
 
 ## Tech Stack    
-_How have you built this project? Mention the technologies/methods/platforms you used to build your project._
 
-<!--
-
-The technologies I used...
-
--->
+- **Next.js** – Framework for server-side rendering and optimized performance.
+- **Typescript** – Ensures type safety and scalability in the codebase.
+- **Appwrite** – Manages database and user authentication for the platform.
+- **Plaid** - Facilitates secure and seamless payment processing.
+- **Shadcn** – Provides a customizable and accessible UI library.
+- **TailwindCSS** – Enables efficient, responsive, and utility-first design.
+- **Sentry** – Monitors app performance and tracks errors in real-time.
+- **GitHub** – Version control for project collaboration.
 
 ### Usage of Appwrite
-_Highlight any Appwrite products used within the project._
 
-<!--
+- **Appwrite Authentication:** Handles user authentication, enabling secure login and account management.
+- **Appwrite Database:** Manages and stores user data securely with robust backend support.
 
-- Appwrite Databases
-
-I used Appwrite Databases to...
-
-- Appwrite Storage
-
-I used Appwrite Storage to...
-
-.
-.
-.
-
--->
 
 ## Project Repo  
-_Share a public repo link of your project_
 
-<!--
+https://github.com/vagxrth/expensis
 
-https://github.com/code-capture/CodeCapture-Xamarin
-
--->
 
 ## Demo Video/Photos/Link
-_Share a 2-3 minute demo video or photos or a deployed link of your project_
 
-<!--
-
-https://www.youtube.com/watch?v=9IBaX1avYWc
-
--->
+- To be uploaded!
 
 ## Anything Else You Want To Share With Us?
 
+Aiming to change the way expense tracking and management works by streamlining the process with real-time syncing across all accounts, eliminating the need for manual entry. Additionally, user feedback will play a critical role in shaping and refining the platform, ensuring we meet real-world financial needs with continuous improvements.
