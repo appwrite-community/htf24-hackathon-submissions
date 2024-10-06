@@ -9,25 +9,29 @@ export function Login() {
 
   return (
     <section>
-      <h1>Login or register</h1>
+      <h1 className="text-2xl pb-4">Login or register</h1>
       <form>
-        <input
-          type="email"
-          placeholder="Email"
-          value={email}
-          onChange={(event) => {
-            setEmail(event.target.value);
-          }}
-        />
-        <input
-          type="password"
-          placeholder="Password"
-          value={password}
-          onChange={(event) => {
-            setPassword(event.target.value);
-          }}
-        />
-        <div>
+        <div className="w-full block mb-6">
+          <input
+            type="email"
+            placeholder="Email"
+            value={email}
+            className="w-full p-2 mb-4"
+            onChange={(event) => {
+              setEmail(event.target.value);
+            }}
+          />
+          <input
+            type="password"
+            placeholder="Password"
+            value={password}
+            className="w-full p-2"
+            onChange={(event) => {
+              setPassword(event.target.value);
+            }}
+          />
+        </div>
+        <div className="flex gap-4">
           <button
             className="button"
             type="button"

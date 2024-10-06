@@ -8,11 +8,12 @@ function App() {
   const isLoginPage = window.location.pathname === "/login";
 
   return (
-    <div className="h-full w-full max-w-[368px] mx-auto">
+    <div className="h-full w-full max-w-[368px] mx-auto py-20">
       <UserProvider>
         <IdeasProvider>
           <Navbar /> {/* Add the navbar before page content */}
-          <main>{isLoginPage ? <Login /> : <Home />}</main>
+          <div className="h-[1px] bg-white w-full my-4"></div>
+          <main>{isLoginPage ? <><Login /><Home /></> : <Home />}</main>
         </IdeasProvider>
       </UserProvider>
     </div>
@@ -23,9 +24,11 @@ function Navbar() {
   const user = useUser();
 
   return (
-    <nav className="flex justify-between items-center pb-10">
+    <nav className="flex justify-between items-center">
       <li className="list-none">
-        <a href="/">Idea tracker</a>
+        <a href="/" className="text-white text-3xl">
+          Idea tracker
+        </a>
         {user.current ? <p>{user.current.email}</p> : <></>}
       </li>
       {user.current ? (
@@ -35,7 +38,9 @@ function Navbar() {
           </button>
         </>
       ) : (
-        <a href="/login">Login</a>
+        <a href="/login" className="text-lg">
+          Login
+        </a>
       )}
     </nav>
   );
