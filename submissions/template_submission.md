@@ -1,8 +1,11 @@
-# Hackathon Submission: <PROJECT_NAME>
+# Hackathon Submission: NyxAPI
 
 
 ## GitHub handles of Team Members  
-_Enter the GitHub handles of all your team members (including yourself) as separate bullet points_
+[Sushil Pandey](https://github.com/sushilpandeyy)
+[Sahil Sharma](https://github.com/Sahil-Sharma06)
+[Raj Singh](https://github.com/Rajsingh251)
+[Sachin Kumar](https://github.com/SACHINKUMAR1728)
 
 <!--
 
