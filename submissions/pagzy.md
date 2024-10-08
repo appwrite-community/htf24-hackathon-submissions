@@ -16,7 +16,10 @@ Pagzy
 ## Project Description    
 _What have you built during the hackathon?_
 
-I have created a modern landing page of Resume builder application
+- Modern, animated landing page for a website builder platform.  
+- Smooth animations and responsive design for a seamless user experience.  
+- Highlight key features: drag-and-drop, customizable templates, and SEO tools.  
+- Strategically placed CTAs to drive engagement and conversions.   
 
 
 ## Inspiration behind the Project  
