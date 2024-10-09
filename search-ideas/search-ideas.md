@@ -1,8 +1,9 @@
-# Hackathon Submission: <PROJECT_NAME>
+# Hackathon Submission: Search Data
 
 
 ## GitHub handles of Team Members  
 _Enter the GitHub handles of all your team members (including yourself) as separate bullet points_
+- @leonyangela
 
 <!--
 
@@ -16,6 +17,7 @@ _Enter the GitHub handles of all your team members (including yourself) as separ
 
 ## Project Title
 _What is the name of your project?_
+Search To Do
 
 <!--
 
@@ -25,6 +27,7 @@ CodeCapture
 
 ## Project Description    
 _What have you built during the hackathon?_
+The project I created is user must login and register inorder to add another ideas, they can search the ideas list based on name
 
 <!--
 
@@ -34,7 +37,7 @@ The project I created is...
 
 ## Inspiration behind the Project  
 _What is the story behind this project? Why did you choose to work on this specific idea?_
-
+The reason I chose this idea was because I'd like to gather list of ideas and user be able to search the idea from the list if the list is too long
 <!--
 
 The reason I chose this idea/project was...
@@ -43,7 +46,7 @@ The reason I chose this idea/project was...
 
 ## Tech Stack    
 _How have you built this project? Mention the technologies/methods/platforms you used to build your project._
-
+The technologies I used is React, and Appwrite as Auth & database, I also use React Provider for state management.
 <!--
 
 The technologies I used...
@@ -52,6 +55,14 @@ The technologies I used...
 
 ### Usage of Appwrite
 _Highlight any Appwrite products used within the project._
+
+- Appwrite Databases
+
+I used Appwrite Databases to store the ideas data
+
+- Appwrite Auth
+
+I used Appwrite Auth to store any registration user
 
 <!--
 
@@ -71,6 +82,7 @@ I used Appwrite Storage to...
 
 ## Project Repo  
 _Share a public repo link of your project_
+https://github.com/leonyangela/htf24-hackathon-submissions.git
 
 <!--
 
@@ -80,6 +92,7 @@ https://github.com/code-capture/CodeCapture-Xamarin
 
 ## Demo Video/Photos/Link
 _Share a 2-3 minute demo video or photos or a deployed link of your project_
+![alt text](image.png)
 
 <!--
 
