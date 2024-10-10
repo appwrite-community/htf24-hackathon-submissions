@@ -6,8 +6,8 @@ _Enter the GitHub handles of all your team members (including yourself) as separ
 
 <!--
 
-- @adityaoberai
-- @tessamero
+- @sisirchaubey
+- 
 .
 .
 .
@@ -19,7 +19,7 @@ _What is the name of your project?_
 
 <!--
 
-CodeCapture
+Add files via upload
 
 -->
 
@@ -28,7 +28,7 @@ _What have you built during the hackathon?_
 
 <!--
 
-The project I created is...
+The project I created is firebase cloud funtion
 
 -->
 
@@ -37,8 +37,7 @@ _What is the story behind this project? Why did you choose to work on this speci
 
 <!--
 
-The reason I chose this idea/project was...
-
+The reason I chose this idea/project is about firebase
 -->
 
 ## Tech Stack    
@@ -46,7 +45,7 @@ _How have you built this project? Mention the technologies/methods/platforms you
 
 <!--
 
-The technologies I used...
+The technologies I used javascrpit
 
 -->
 
@@ -57,11 +56,11 @@ _Highlight any Appwrite products used within the project._
 
 - Appwrite Databases
 
-I used Appwrite Databases to...
+I used Appwrite Databases to manage data.
 
 - Appwrite Storage
 
-I used Appwrite Storage to...
+I used Appwrite Storage to store data
 
 .
 .
@@ -74,7 +73,7 @@ _Share a public repo link of your project_
 
 <!--
 
-https://github.com/code-capture/CodeCapture-Xamarin
+https://github.com/sisirchaubey/Firebase-cloud-function
 
 -->
 
