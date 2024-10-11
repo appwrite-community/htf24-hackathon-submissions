@@ -1,4 +1,4 @@
-# Hackathon Submission: <PROJECT_NAME>
+# Hackathon Submission: apps writer project
 
 ## Name of Team Lead
 _Enter your full name_
@@ -16,7 +16,7 @@ _Enter the GitHub handles of all your team members (including yourself) as separ
 
 - @adityaoberai
 - @tessamero
-.
+-@imanam maqweazima
 .
 .
 
@@ -27,6 +27,7 @@ _This is a mandatory step for all participants to be considered eligible for jud
 
 - [ ] Yes
 - [ ] No
+- [ ] yes
 
 ---
 
@@ -34,6 +35,7 @@ _This is a mandatory step for all participants to be considered eligible for jud
 By submitting this PR, you agree to follow our Rules and Code of Conduct.
 
 - [x] Yes
+- [ ] yes
 
 ---
 
