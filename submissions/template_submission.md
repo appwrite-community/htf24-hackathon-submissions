@@ -1,91 +1,52 @@
-# Hackathon Submission: <PROJECT_NAME>
+### Hackathon Submission: **CollabWrite**
+
+---
+
+### GitHub handles of Team Members:
+- **[@SUPREME-AKASH-DEVELOPER](https://github.com/SUPREME-AKASH-DEVELOPER)**
+
+---
+
+### Project Title:
+**CollabWrite: Real-Time Collaborative Document Editor**
+
+---
+
+### Project Description:
+During the hackathon, I built **CollabWrite**, a real-time collaborative document editor that allows multiple users to work on the same document simultaneously. Users can create, edit, and format text in real-time with changes reflected instantly across all collaborators. The platform also supports document versioning, allowing users to retrieve and review past versions.
+
+---
+
+### Inspiration behind the Project:
+The project was inspired by the need for more effective remote collaboration tools, especially for teams working from different locations. I wanted to build a simple, user-friendly document editor where collaboration is seamless and hassle-free, leveraging the power of real-time updates to enable multiple users to work on the same document together.
+
+---
+
+### Tech Stack:
+- **Frontend:** React, TypeScript, Tailwind CSS
+- **Backend:** Node.js, Express
+- **Database:** Appwrite (Database)
+- **Real-time collaboration:** WebSockets
+- **Version Control:** Appwrite's Realtime and Storage Services
+
+---
+
+### Usage of Appwrite:
+- **Appwrite Database:** For storing and managing document metadata and content.
+- **Appwrite Authentication:** For handling user registration, login, and authentication processes.
+- **Appwrite Storage:** Used to store document files and manage version histories.
+- **Appwrite Realtime:** To synchronize document changes in real-time across users.
+
+---
+
+### Project Repo:
+[**CollabWrite GitHub Repository**](https://github.com/SUPREME-AKASH-DEVELOPER/CollabWrite--Appwrite-HacktoberFest-Program-2024)
+
+---
+
+### Demo Video/Photos/Link:
+- **Screenshots/Photos: In github repository "https://github.com/SUPREME-AKASH-DEVELOPER/CollabWrite--Appwrite-HacktoberFest-Program-2024.git"
 
 
-## GitHub handles of Team Members  
-_Enter the GitHub handles of all your team members (including yourself) as separate bullet points_
-
-<!--
-
-- @adityaoberai
-- @tessamero
-.
-.
-.
-
--->
-
-## Project Title
-_What is the name of your project?_
-
-<!--
-
-CodeCapture
-
--->
-
-## Project Description    
-_What have you built during the hackathon?_
-
-<!--
-
-The project I created is...
-
--->
-
-## Inspiration behind the Project  
-_What is the story behind this project? Why did you choose to work on this specific idea?_
-
-<!--
-
-The reason I chose this idea/project was...
-
--->
-
-## Tech Stack    
-_How have you built this project? Mention the technologies/methods/platforms you used to build your project._
-
-<!--
-
-The technologies I used...
-
--->
-
-### Usage of Appwrite
-_Highlight any Appwrite products used within the project._
-
-<!--
-
-- Appwrite Databases
-
-I used Appwrite Databases to...
-
-- Appwrite Storage
-
-I used Appwrite Storage to...
-
-.
-.
-.
-
--->
-
-## Project Repo  
-_Share a public repo link of your project_
-
-<!--
-
-https://github.com/code-capture/CodeCapture-Xamarin
-
--->
-
-## Demo Video/Photos/Link
-_Share a 2-3 minute demo video or photos or a deployed link of your project_
-
-<!--
-
-https://www.youtube.com/watch?v=9IBaX1avYWc
-
--->
-
-## Anything Else You Want To Share With Us?
-
+### Anything Else You Want To Share With Us?
+Looking forward, I plan to add more features to **CollabWrite**, such as offline support, code syntax highlighting, and integrated voice/video call functionality to enhance real-time collaboration. Building this project was a fantastic experience that allowed me to explore Appwrite's features and build a tool aimed at solving real-world collaboration challenges!
