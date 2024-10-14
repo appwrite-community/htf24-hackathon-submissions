@@ -2,7 +2,7 @@
 
 
 ## GitHub handles of Team Members  
-_Enter the GitHub handles of all your team members (including yourself) as separate bullet points_
+
 @Srikathyayini
 <!--
 
@@ -15,7 +15,7 @@ _Enter the GitHub handles of all your team members (including yourself) as separ
 -->
 
 ## Project Title
-_What is the name of your project?_
+
 Smart Conductor System for Buses with QR Code Ticketing
 <!--
 
@@ -24,7 +24,7 @@ CodeCapture
 -->
 
 ## Project Description    
-_What have you built during the hackathon?_
+
 The Smart Conductor System for buses is a digital ticketing and passenger management solution that allows passengers to generate their bus tickets by scanning a QR code using their smartphones.
 This system aims to modernize public transport by replacing traditional paper tickets and manual fare collection with a contactless, automated process. The system enhances convenience, speeds up boarding,
 reduces human error, and provides real-time data for better operational efficiency.
@@ -35,7 +35,7 @@ The project I created is...
 -->
 
 ## Inspiration behind the Project  
-_What is the story behind this project? Why did you choose to work on this specific idea?_
+
 The COVID-19 pandemic highlighted the importance of contactless solutions to minimize physical interactions and maintain hygiene in public spaces. 
 The traditional exchange of cash and physical tickets posed potential health risks. This project draws inspiration from the global movement toward contactless services, 
 aiming to make public transport safer and more hygienic by reducing the need for passengers to handle cash or paper tickets.
