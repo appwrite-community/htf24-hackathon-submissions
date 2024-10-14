@@ -16,7 +16,7 @@
 
 ## Project Title
 
-Smart Conductor System for Buses with QR Code Ticketing
+Smart Conductor System for Buses with QR Code Ticketing.
 <!--
 
 CodeCapture
