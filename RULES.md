@@ -8,7 +8,7 @@
 
 - Your submission(s) must feature the usage of at least one Appwrite product (i.e., Auth, Databases, Storage, Functions, Realtime, and/or Messaging). Using more than one Appwrite product is encouraged.
 
-- You are encourage to submit your project on [Built With Appwrite](https://builtwith.appwrite.io) after the hackathon.
+- You are encouraged to submit your project on [Built With Appwrite](https://builtwith.appwrite.io) after the hackathon.
 
 - It is mandatory to use Appwrite Cloud during this hackathon. You can [avail free Cloud credits](https://apwr.dev/hacktoberfest) for your team to use during the hackathon.
 

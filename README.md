@@ -78,3 +78,6 @@ All participants must agree to the [Rules](RULES.md) and [Code of Conduct](CODE_
       - Find tutorials and blogs on Appwrite's services at the [Appwrite blog](https://appwrite.io/blog).
       - View our livestreams and video content at the [Appwrite YouTube channel](https://youtube.com/c/Appwrite).
       - Discover our community-made projects at the [Awesome Appwrite repo](https://github.com/appwrite/awesome-appwrite) and the [Built With Appwrite website](https://builtwith.appwrite.io/).
+
+8. Do I need a debit/credit card to [redeem free Appwrite Cloud credits](https://apwr.dev/hacktoberfest) for this hackathon?
+    - Yes, you need a debit/credit card to redeem the free Cloud credits. However, your card will not be charged as long as there are credits in your account.
