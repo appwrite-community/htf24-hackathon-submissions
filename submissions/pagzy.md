@@ -1,90 +1,55 @@
-# Hackathon Submission: <PROJECT_NAME>
+# Hackathon Submission: Pagzy
 
 
 ## GitHub handles of Team Members  
 _Enter the GitHub handles of all your team members (including yourself) as separate bullet points_
 
-<!--
+- @Ankit628792
 
-- @adityaoberai
-- @tessamero
-.
-.
-.
-
--->
 
 ## Project Title
 _What is the name of your project?_
 
-<!--
+Pagzy
 
-CodeCapture
-
--->
 
 ## Project Description    
 _What have you built during the hackathon?_
 
-<!--
+- Modern, animated landing page for a website builder platform.  
+- Smooth animations and responsive design for a seamless user experience.  
+- Highlight key features: drag-and-drop, customizable templates, and SEO tools.  
+- Strategically placed CTAs to drive engagement and conversions.   
 
-The project I created is...
-
--->
 
 ## Inspiration behind the Project  
 _What is the story behind this project? Why did you choose to work on this specific idea?_
 
-<!--
+The reason I chose this project to enhance my UI skills with shadcn UI to build a beautiful and modern landing page.
 
-The reason I chose this idea/project was...
-
--->
 
 ## Tech Stack    
 _How have you built this project? Mention the technologies/methods/platforms you used to build your project._
 
-<!--
+The technologies I used is Next.js, TailwindCSS, Shadcn UI, Framer motion.
 
-The technologies I used...
-
--->
 
 ### Usage of Appwrite
 _Highlight any Appwrite products used within the project._
 
-<!--
+None
 
-- Appwrite Databases
-
-I used Appwrite Databases to...
-
-- Appwrite Storage
-
-I used Appwrite Storage to...
-
-.
-.
-.
-
--->
 
 ## Project Repo  
 _Share a public repo link of your project_
 
-<!--
+https://github.com/Ankit628792/pagzy
 
-https://github.com/code-capture/CodeCapture-Xamarin
-
--->
 
 ## Demo Video/Photos/Link
 _Share a 2-3 minute demo video or photos or a deployed link of your project_
 
-<!--
-
-https://www.youtube.com/watch?v=9IBaX1avYWc
-
--->
+https://pagzy.vercel.app
 
 ## Anything Else You Want To Share With Us?
+
