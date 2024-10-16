@@ -1,4 +1,4 @@
-# Hackathon Submission: <PROJECT_NAME>
+# Hackathon Submission: Aora
 
 
 ## GitHub handles of Team Members  
