@@ -1,0 +1,95 @@
+# Hackathon Submission: <PROJECT_NAME>
+
+
+## GitHub handles of Team Members  
+-@ChiragTankan
+
+
+
+## Project Title
+Minesweeper-game
+<!--
+
+CodeCapture
+
+-->
+
+## Project Description    
+"Sharpen your mind and test your reflexes with my Minesweeper game. It's a classic puzzle with a modern twist, perfect for a quick brain boost."
+
+"My Minesweeper game provides a stimulating mental workout, improving problem-solving, logical thinking, and pattern recognition skills. It's a classic game with endless replayability, perfect for stress relief and cognitive enhancement."
+
+ 
+
+Focusing on Learning and Development:
+
+"My Minesweeper game is more than just a game; it's a learning tool. Players can enhance their logical reasoning, decision-making, and risk assessment skills while enjoying a classic puzzle. It's a perfect platform for developers to learn and experiment with game development concepts."
+<!--
+
+The project I created is...
+
+-->
+
+## Inspiration behind the Project  
+The reason I chose this project for play minesweeper game for time pass or sharp you mind also for practice for javascript codeing.
+<!--
+
+The reason I chose this idea/project was...
+
+-->
+
+## Tech Stack    
+The technologies I used are - HTML ,CSS,JAVASCRIPT ,UI/UX,FIGMA .
+<!--
+
+The technologies I used...
+
+-->
+
+### Usage of Appwrite
+_Highlight any Appwrite products used within the project._
+
+<!--
+
+- Appwrite Databases
+
+I used Appwrite Databases to...
+
+- Appwrite Storage
+
+I used Appwrite Storage to...
+
+.
+.
+.
+
+-->
+
+## Project Repo  
+https://github.com/ChiragTankan/Minesweeper-game/blob/main/index.html
+
+<!--
+
+https://github.com/code-capture/CodeCapture-Xamarin
+
+-->
+
+## Demo Video/Photos  
+IMAGE_1 : https://json.commudle.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK0NWQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--3d82f14ace7d4768f37f913e9eac39860149c0e0/Screenshot_2024-08-14-14-18-34-718_com.android.chrome.jpg
+IMAGE_2 : https://json.commudle.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK0dWQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--bfb587afc3c9e44cbfca8c5b510b7639f05e8811/Screenshot_2024-08-14-14-18-25-421_com.android.chrome.jpg
+IMAGE_3 : https://json.commudle.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK0tWQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--c4bcb58f9e3ad55a2ce1d631cab564c62ab6dc14/Screenshot_2024-08-14-14-18-13-332_com.android.chrome.jpg
+IMAGE_4 : https://json.commudle.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK0tWQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--c4bcb58f9e3ad55a2ce1d631cab564c62ab6dc14/Screenshot_2024-08-14-14-18-13-332_com.android.chrome.jpg
+IMAGE_5 : https://json.commudle.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK09WQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--801df0d980b195c139a1e407b6cf03f5d51fc5c7/Screenshot_2024-08-14-14-17-51-168_com.android.chrome.jpg
+IMAGE_6 : https://json.commudle.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK1NWQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--5a5a3fef1d5ae57f39a31530cd890f98f7f9b318/Screenshot_2024-08-14-14-17-27-701_com.android.chrome.jpg
+IMAGE_7 : https://json.commudle.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK1dWQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e031ed494cf31b22cf642d4909828b15bf8ad0f9/Screenshot_2024-08-14-14-17-21-291_com.android.chrome.jpg
+IMAGE_8 : https://json.commudle.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK2FWQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--cfac7382265b2002b812926d44cdae5f5baeb0d1/Screenshot_2024-08-14-14-17-17-256_com.android.chrome.jpg
+IMAGE_9 : https://json.commudle.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK2VWQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ecf00c59a45f373a3fbecc58087f7936185da2c0/Screenshot_2024-08-14-14-17-13-185_com.android.chrome.jpg
+IMAGE_10 : https://json.commudle.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK2lWQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e7f87e968345a049523871abe9ff1b3c0e3b5831/Screenshot_2024-08-14-14-17-09-215_com.android.chrome.jpg
+IMAGE_11 : https://json.commudle.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK21WQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--91ed8b389735cecc8e5c3b609b1cf03174f0e605/Screenshot_2024-08-14-14-17-04-340_com.android.chrome.jpg
+
+
+<!--
+
+https://www.youtube.com/watch?v=9IBaX1avYWc
+
+-->
