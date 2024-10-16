@@ -1,0 +1,34 @@
+why using Slot? 
+Slot is a component that is used to render the current route component. 
+It is a placeholder for the current route component.
+
+what is cuurent route component?
+The current route component is the component that is rendered based on the current route.
+
+what are the ways to naviagating in react native?
+There are two ways to navigate in React Native:
+1. Using the react-navigation library.
+2. Using the Expo router.
+
+what is react-navigation library?
+React Navigation is a library that is used to navigate between different screens in a React Native application.
+ex : Stack Navigator, Tab Navigator, Drawer Navigator, and Switch Navigator.
+
+what is Expo router?
+The Expo router is a built-in router that is provided by the Expo SDK.
+It is used to navigate between different screens in a React Native application.
+ex : Linking, NavigationContainer, Stack, Tab, Drawer, and Switch.
+
+SplashScreen use for : 
+1. Prevent the app from auto-hiding the splash screen.
+2. Show the splash screen.
+3. Hide the splash screen.
+4. Get the visibility of the splash screen.
+5. Get the native splash screen configuration.
+
+what is splash screen?
+A splash screen is a launch image that is primarily used on mobile devices. It is the first screen that appears when you open your app.
+It is used to display the app's name, logo, and other information to the user. The splash screen is displayed while the app is loading its initial resources.
+
+what is preventAutoHideAsync()?
+Prevent the app from auto-hiding the splash screen. This method should be called in the root component of your app.
