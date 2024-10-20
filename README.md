@@ -27,6 +27,7 @@
   - Appwrite swag (hoodies and stickers)
 
 ## How To Submit Your Project?
+*(Watch [video tutorial on how to submit](https://youtu.be/zEYKnKD7dYE))*
 
 Follow the steps to submit your project in the hackathon:
 
@@ -66,7 +67,7 @@ All participants must agree to the [Rules](RULES.md) and [Code of Conduct](CODE_
 4. Does everyone on a winning team receive a prize?
     - If there is more than one member on a winning team, each member will receive the specified prize.
 
-5. Are there any specific themes than a project must fit within?
+5. Are there any specific themes that a project must fit within?
     - No, there are not any specified themes. Hackers are free to build on whatever idea they like.
 
 6. Who should I reach out to in case I need help building with Appwrite?
