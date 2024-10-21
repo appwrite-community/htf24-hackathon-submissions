@@ -14,7 +14,7 @@ Fitness World
 ## Project Description    
 _What have you built during the hackathon?_
 
-Fitness World is a comprehensive fitness-tracking app that helps users monitor their fitness journey by tracking workouts, setting personal fitness goals, and receiving exercise suggestions. The app is designed with a user-friendly interface, allowing users to log details like weight, workouts, duration, and calories burned. It also provides personalized workout suggestions and progress charts to help users stay on top of their fitness goals.
+Fitness World is a comprehensive fitness-tracking app that helps users monitor their fitness journey by tracking workouts, setting personal fitness goals, and receiving exercise suggestions. The app is designed with a user-friendly interface, allowing users to log details like weight, workouts, duration, and calories burned. It also provides personalized workout suggestions and progress charts to help users stay on top of their fitness goals. 
 
 
 ## Inspiration behind the Project  
