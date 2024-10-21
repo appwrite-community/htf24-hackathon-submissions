@@ -1,9 +1,8 @@
-# Hackathon Submission: <PROJECT_NAME>
+# Hackathon Submission: <TODO_LIST BACKEND>
 
 
 ## GitHub handles of Team Members  
-_Enter the GitHub handles of all your team members (including yourself) as separate bullet points_
-
+sahilrawat001
 <!--
 
 - @adityaoberai
@@ -15,8 +14,7 @@ _Enter the GitHub handles of all your team members (including yourself) as separ
 -->
 
 ## Project Title
-_What is the name of your project?_
-
+To-do list backend
 <!--
 
 CodeCapture
@@ -33,8 +31,7 @@ The project I created is...
 -->
 
 ## Inspiration behind the Project  
-_What is the story behind this project? Why did you choose to work on this specific idea?_
-
+I've made simple todo list with user authentication 
 <!--
 
 The reason I chose this idea/project was...
@@ -42,8 +39,8 @@ The reason I chose this idea/project was...
 -->
 
 ## Tech Stack    
-_How have you built this project? Mention the technologies/methods/platforms you used to build your project._
-
+Node.js
+express
 <!--
 
 The technologies I used...
@@ -51,8 +48,8 @@ The technologies I used...
 -->
 
 ### Usage of Appwrite
-_Highlight any Appwrite products used within the project._
-
+DATABASES- I've used the database of appwrite to save data 
+AUTH- I've used auth of appwrite  for user signup login with the sessions of appwrite_
 <!--
 
 - Appwrite Databases
@@ -70,7 +67,7 @@ I used Appwrite Storage to...
 -->
 
 ## Project Repo  
-_Share a public repo link of your project_
+[_Share a public repo link of your project_](https://github.com/sahilrawat001/app-write)
 
 <!--
 
