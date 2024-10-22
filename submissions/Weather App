@@ -1,0 +1,126 @@
+# Hackathon Submission:Weather App
+
+
+## GitHub handles of Team Members  
+@chiragtankan
+<!--
+
+- @adityaoberai
+- @tessamero
+.
+.
+.
+
+-->
+
+## Project Title
+weather App
+<!--
+
+CodeCapture
+
+-->
+
+## Project Description    
+Project Overview:
+
+Purpose: Clearly state the primary goal of your app. Is it to provide accurate and timely weather information, offer personalized weather alerts, or serve as a travel companion?
+Target Audience: Identify the specific group of users you aim to reach. Are you targeting individuals in a particular region, travelers, or those with specific interests like outdoor activities or agriculture?
+Key Features: Highlight the essential functionalities your app offers, such as:
+Real-time weather updates for current location and selected cities
+Detailed weather forecasts (hourly, daily, weekly)
+Weather alerts for severe conditions (e.g., thunderstorms, heavy rain)
+Ability to save favorite locations
+Integration with maps for visual representation of weather conditions
+User-friendly interface with intuitive navigation
+Technical Implementation:
+
+Programming Language: Emphasize the use of JavaScript as the core language for development.
+APIs: Specify the weather data API you've utilized (e.g., OpenWeatherMap, Weather API, Dark Sky).
+Libraries/Frameworks: If applicable, mention any JavaScript libraries or frameworks (e.g., React, Vue, Angular) that you've employed to enhance the app's structure and functionality.
+Data Storage: Explain how you've handled data storage, whether it's local storage, session storage, or a database.
+User Experience (UX):
+
+Design: Describe the app's overall design and user interface. How did you ensure a visually appealing and intuitive experience?
+Usability: Discuss the app's ease of use and navigation. Did you conduct any usability testing to identify and address potential issues?
+Accessibility: Explain how you've considered accessibility features to make the app usable by people with disabilities.
+Challenges and Solutions:
+
+Technical Challenges: Highlight any technical obstacles you encountered during development and how you overcame them.
+Design Challenges: Discuss any design-related challenges and how you addressed them to create a satisfying user experience.
+Future Enhancements:
+
+Additional Features: Suggest potential future features that could be added to enhance the app's functionality and appeal to users.
+Improvements: Outline areas where you could further improve the app's performance, user experience, or accuracy.
+Conclusion:
+
+Summary: Briefly recap the key points of your project, emphasizing the app's value proposition and potential impact.
+Learning Experience: Reflect on the skills and knowledge you gained through this project.
+Additional Tips:
+
+Use Clear and Concise Language: Avoid technical jargon and explain concepts in a way that is understandable to a general audience.
+Include Screenshots: Provide screenshots of your app's interface to illustrate its visual design and features.
+Quantify Achievements: If possible, quantify your achievements, such as the number of users, engagement metrics, or positive feedback.
+Tailor Your Description: Customize the project description to match the specific requirements or expectations of your audience (e.g., potential employers, investors).
+<!--
+
+The project I created is...
+
+-->
+
+## Inspiration behind the Project  
+_What is the story behind this project? Why did you choose to work on this specific idea?_
+
+<!--
+
+The reason I chose this idea/project was...
+
+-->
+
+## Tech Stack    
+HTML,CSS, JAVASCRIPT,UI/UX,FIGMA,GITHUB
+<!--
+
+The technologies I used...
+
+-->
+
+### Usage of Appwrite
+_Highlight any Appwrite products used within the project._
+
+<!--
+
+- Appwrite Databases
+
+I used Appwrite Databases to...
+
+- Appwrite Storage
+
+I used Appwrite Storage to...
+
+.
+.
+.
+
+-->
+
+## Project Repo  
+live view : https://chiragtankan.github.io/Weather-App/
+repo: https://github.com/ChiragTankan/Weather-App
+<!--
+
+https://github.com/code-capture/CodeCapture-Xamarin
+
+-->
+
+## Demo Video/Photos/Link
+_Share a 2-3 minute demo video or photos or a deployed link of your project_
+
+<!--
+
+https://www.youtube.com/watch?v=9IBaX1avYWc
+
+-->
+
+## Anything Else You Want To Share With Us?
+
