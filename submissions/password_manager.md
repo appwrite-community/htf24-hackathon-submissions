@@ -1,117 +1,51 @@
-# Hackathon Submission: <PROJECT_NAME>
+# Hackathon Submission: Password Manager
 
-
-## GitHub handles of Team Members  
-_Enter the GitHub handles of all your team members (including yourself) as separate bullet points_
-
-<!--
-
-- @adityaoberai
-- @tessamero
-.
-.
-.
-
--->
+## GitHub Handles of Team Members  
+[@sunny7899](https://github.com/sunny7899)
 
 ## Project Title
-_What is the name of your project?_
-
-<!--
-
-CodeCapture
-
--->
+**Password Manager**
 
 ## Project Description    
-_What have you built during the hackathon?_
-features
-<!--
+I am developing an app that securely stores and manages passwords.
 
-The project I created is...
+### Features of the App
+- **Search Functionality:** Quickly find previously saved passwords.
+- **Password Details:** View associated details such as email, password, description, hint, and connected social accounts.
+- **Add New Passwords:** Easily input new password information.
+- **Password List:** View a comprehensive list of saved passwords and associated emails.
+- **Social Media Integration:** Add and manage social media accounts.
+- **Password Generation:** Generate strong passwords for new accounts directly within the app.
 
--->
-
-## Inspiration behind the Project  
-I've always been a news junkie. I love staying informed about the world around me, but it can be overwhelming to keep up with all the different sources and topics. That's why I decided to create this project, a personalized  platform designed to make it easy for people like me to stay informed.
-
-
-Building app was a challenging but rewarding experience. I learned a lot about web development, user experience, and the importance of building a strong community. I'm proud of what I've accomplished, and I'm excited to see where News-Web will go in the future.
-
-I hope that app will continue to be a valuable resource for people who want to stay informed and connected.
-
-<!--
-
-The reason I chose this idea/project was...
-
--->
+## Inspiration Behind the Project  
+As a news enthusiast, I often find it challenging to keep track of all my accounts across various platforms. This inspired me to create a personalized password management tool that helps users remember and secure their passwords efficiently. My experience in web development and user experience design has been instrumental in shaping this project, and I’m excited to see how it evolves to meet the needs of users.
 
 ## Tech Stack    
-_How have you built this project? Mention the technologies/methods/platforms you used to build your project._
-
-<!--
-
-The technologies I used...
-
--->
+- **React:** For building the frontend interface.
+- **Next.js:** For server-side rendering and API management.
+- **TypeScript:** To ensure type safety and enhance the developer experience.
+- **Appwrite:** As the backend service for secure data management, including databases and authentication.
 
 ### Usage of Appwrite
-_Highlight any Appwrite products used within the project._
-- **Appwrite Authentication:** Used to authenticate users via Appwrite credentials and manage login sessions securely. handling user sign-ups, logins, and session management securely. enabling secure login and account management. handle user registration, login, and session management securely. This ensured that only authorized team members could access project-specific information. secure login, registration,, allowing users to manage their accounts effortlessly with options for OAuth providers like Google, GitHub, and more. Auth to store any registration user
 
-- **Appwrite  SDK:** Facilitates communication with the Appwrite API, enabling secure and efficient user authentication and session management  enabling secure login and user session management. 
+- **Appwrite Authentication:** Manages user authentication and session handling securely, allowing users to log in with options like email/password, SMS, or OAuth providers such as Google and GitHub.
 
-- **Appwrite Databases**:  
-  Used to create and store chat messages in the `messages` collection, including attributes such as `user_id`, `username`, and `message body`. Manages and stores user data securely with robust backend support.
-store the details of every user in the backend.
- -  Appwrite Auth Service to register and login user, also  to find the active session details of the user.
- - Storage for storing user images in the database. 
-to store the  data. store and manage project data, user profiles, and task information. The flexible schema and real-time capabilities allowed us to create a responsive and dynamic user experience. store the user data and transaction history of the users. I also used appwrite to authenticate users and for creating user sessions. Used for storing farmer inputs and matching them to relevant schemes.  Used for managing user data and video bookmarks.  
- for file management within projects. This allowed team members to easily upload, store, and share project-related documents and assets.
-  manages user data, including code snippets, project files, and collaboration history. It ensures that user data is securely stored and can be retrieved or updated instantly.
+- **Appwrite SDK:** Facilitates secure communication with the Appwrite API, ensuring efficient user authentication and session management.
 
-- **Appwrite Real-Time API**:  
-  Utilized to ensure that messages are updated in real time across all connected users as soon as a new message is added to the database. real-time database functionality enables instant synchronization of code changes, ensuring that all users collaborating on a project see updates in real-time.
+- **Appwrite Databases:** Creates and stores login information in a `manager` collection, securely managing user data such as passwords and transaction history.
 
- 
-- Appwrite Functions
+- **Appwrite Storage:** Manages file uploads, allowing users to securely store and share project-related documents and images.
 
-Appwrite Functions were used to implement custom backend logic, such as automated notifications and task assignments, enhancing the overall functionality of DevBoard.
+- **Appwrite Real-Time API:** Ensures instant updates across all connected users whenever new data is added to the database, enhancing collaboration.
 
-- **📁  Storage**:
-  Codespace uses Appwrite's file storage service to handle the creation, storage, and retrieval of project files. Users can upload, edit, and save files, which are securely stored on Appwrite’s cloud infrastructure. Utilized for storing and serving video content.
-Used to securely store and retrieve important data.
+- **Appwrite Functions:** Enables serverless backend operations, ensuring scalability and security.
 
+- **Appwrite Notifications:** Facilitates sending and scheduling of email, SMS, and push notifications.
 
-- **🛡️ Security**:
-  Appwrite provides end-to-end security for Codespace, offering authentication, file storage encryption, and access controls to safeguard user data and projects.
+- **Appwrite Users:** Allows management of project users, including searching, blocking, and editing preferences.
 
-- **Appwrite Filters**: Used to filter the schemes based on the Input.
-
-<!--
-
-- Appwrite Databases
-
-I used Appwrite Databases to...
-
-- Appwrite Storage
-
-I used Appwrite Storage to...
-
-.
-.
-.
-
--->
-
-## Project Repo  
-_Share a public repo link of your project_
-
-<!--
-
-https://github.com/code-capture/CodeCapture-Xamarin
-
--->
+## Project Repository  
+[GitHub Repository](https://github.com/sunny7899/password-manager)
 
 ## Demo Video/Photos/Link
 _Share a 2-3 minute demo video or photos or a deployed link of your project_
@@ -122,5 +56,6 @@ https://www.youtube.com/watch?v=9IBaX1avYWc
 
 -->
 
-## Anything Else You Want To Share With Us?
+## Additional Information
+Feel free to reach out if you have any questions or feedback!
 
