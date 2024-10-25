@@ -22,7 +22,7 @@ The inspiration behind **Anonymous Messenger** was the need for a simple yet pow
 - **Appwrite Authentication**: Appwrite Authentication was implemented to ensure the create, update, or delete rooms messages.
 
 ## Project Repo  
-[Anon messenger GitHub Repo](https://github.com/SahilKumarIN/anon-msngr)
+[Anon messenger GitHub Repo](https://github.com/SahilKumarIN/anon-messenger)
 
 ## Demo Video/Photos/Link
 Check out the project here:
