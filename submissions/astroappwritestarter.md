@@ -33,6 +33,4 @@ https://github.com/petipois/astro-appwrite-starter
 ## Demo Video/Photos  
 _Share a 2-3 minute demo video of your project_
 
-<!--
-https://www.youtube.com/watch?v=9IBaX1avYWc
--->
+https://youtu.be/Hb2UtCvs3i8
