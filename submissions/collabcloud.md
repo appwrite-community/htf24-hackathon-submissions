@@ -34,6 +34,10 @@ I have had the pleasure of working as video editor and social media strategist f
 - PostgresSQL
 - AWS Elastic Media Transcoder
 - Youtuber , Instagram API
+- Tailwind CSS
+- Accernity UI
+- Vercel
+- Cloudflare R2
 
 ## Project Repo  
 
@@ -41,4 +45,4 @@ https://github.com/Fada-Club/collabcloud
 
 ## Demo Video/Photos  
 
-Will add soon
+(under development will add as soon it's complete)
