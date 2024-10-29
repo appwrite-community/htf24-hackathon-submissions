@@ -1,0 +1,42 @@
+# Hackathon Submission: Minesweeper-game
+
+## GitHub handles of Team Members  
+- [@chiragtankan](https://github.com/chiragtankan)
+
+## Project Title
+
+Minesweeper-game
+
+## Project Description    
+
+"Sharpen your mind and test your reflexes with my Minesweeper game. It's a classic puzzle with a modern twist, perfect for a quick brain boost."
+
+"My Minesweeper game provides a stimulating mental workout, improving problem-solving, logical thinking, and pattern recognition skills. It's a classic game with endless replayability, perfect for stress relief and cognitive enhancement."
+
+ 
+
+Focusing on Learning and Development:
+
+"My Minesweeper game is more than just a game; it's a learning tool. Players can enhance their logical reasoning, decision-making, and risk assessment skills while enjoying a classic puzzle. It's a perfect platform for developers to learn and experiment with game development concepts."
+## Tech Stack    
+
+- react.js 15 for frontend and creating api's
+- figma UI for styling
+
+### Uses of appwrite
+
+- **Database** 
+- **Storage** 
+- **Functions** 
+    - **Databse cleanup**
+    - **Storage cleanup**
+
+## Project Repo  
+
+Github repo : [Minesweepe-game](https://github.com/ChiragTankan/Minesweeper-game)
+
+## Demo Video/Photos  
+
+- Live preview :- https://chiragtankan.github.io/Minesweeper-game/
+
+
