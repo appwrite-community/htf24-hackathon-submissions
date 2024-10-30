@@ -38,7 +38,7 @@ _Share a public repo link of your project_
 https://brieffly-ten.vercel.app/
 
 ## Demo Video/Photos  
-_Share a 2-3 minute demo video of yo
+_Share a 2-3 minute demo video of your project_
 
 https://github.com/user-attachments/assets/ce215641-81e4-4426-b467-1c7361e528bb
 
