@@ -10,11 +10,11 @@
 .
 -->
 
-- [@atulya-srivastava](https://github.com/atulya-srivastava)
+- @atulya-srivastava
 
-- [@capsule11](https://github.com/capsule11)
+- @capsule11
 
-- [@Sreejit-Sengupto](https://github.com/Sreejit-Sengupto)
+- @Sreejit-Sengupto
 
 ## Project Title
 
