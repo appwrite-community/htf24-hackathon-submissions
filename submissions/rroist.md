@@ -29,6 +29,21 @@ A significant highlight of our project is the CLI tool that exports the form as 
 
 Currently in beta, this project will continue to evolve, with future updates and features that enhance the experience for both developers and end-users. We’re committed to making form management simpler, faster, and more adaptable to real-world needs.
 
+## Future Scope
+The future scope of this project is expansive, with a roadmap aimed at enhancing functionality and user experience. Planned updates include:
+
+- **Component Expansion**: We plan to introduce additional customizable components, like testimonial sections and other common UI elements, that can be seamlessly integrated with the form builder. Also plan to make a documentation section for the same for ease of use.
+  
+- **AI-Powered Insights**: By integrating AI capabilities, users will be able to analyze and summarize form responses, helping them derive actionable insights and saving time on data analysis.
+  
+- **Advanced Customization Options**: Further personalization features, such as custom animations, multi-step forms, and conditional logic, are in the works to increase flexibility and user engagement.
+  
+- **Enhanced Dashboard Analytics**: The dashboard will be upgraded to include more in-depth analytics, helping users track trends and response metrics with ease.
+
+- **Enhanced Security**: Increase security and privacy features. Allow form makers to accept only one response per user.
+
+These upcoming features will further establish our platform as a comprehensive, flexible tool that adapts to a wide range of use cases in form management and beyond.
+
 ## Tech Stack    
 _How have you built this project? Mention the technologies/methods/platforms you used to build your project_
 
