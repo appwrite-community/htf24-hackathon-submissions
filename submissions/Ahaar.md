@@ -26,4 +26,4 @@ Ahaar is built with the **Gemini Model** and **Foodvisor Model** for initial foo
 
 ## Demo Video/Photos  
 
-[Insert link to 2-3 minute demo video of the project here]
+[Watch the Demo Video](https://youtu.be/ye6rU7BnZT4)
