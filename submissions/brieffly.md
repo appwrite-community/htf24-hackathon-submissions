@@ -1,4 +1,4 @@
-# Hackathon Submission: <PROJECT_NAME>
+# Hackathon Submission: Brieffly
 
 ## GitHub handles of Team Members  
 _Enter the GitHub handles of all your team members (including yourself) as separate bullet points_
@@ -30,13 +30,25 @@ During my preparation for competitive exams like KVPY and IIT JEE, I often felt 
 ## Tech Stack    
 _How have you built this project? Mention the technologies/methods/platforms you used to build your project_
 
-To build Brieffly, I used Next.js for both the frontend and backend, leveraging its full-stack capabilities to streamline the app's development. The frontend in Next.js creates an interactive, responsive interface, while the backend handles API routes and manages data flow. I integrated the Gemini API to generate concise summaries for complex concepts and formulas, while Appwrite DB stores and manages user data efficiently.
+To build Brieffly, I used Next.js for both the frontend and backend, leveraging its full-stack capabilities to streamline the app's development. The frontend in Next.js creates an interactive, responsive interface, while the backend handles API routes and manages data flow. I integrated the Gemini API to generate concise summaries for complex concepts and formulas, while **Appwrite DB** stores and manages user data efficiently.
 
 ## Project Repo  
 _Share a public repo link of your project_
 
-https://github.com/hegdeadithyak/Brieffly.git
+https://brieffly-ten.vercel.app/
 
 ## Demo Video/Photos  
-_Share a 2-3 minute demo video of your project_
+_Share a 2-3 minute demo video of yo
+
+https://github.com/user-attach
+
+https://github.com/user-attachments/assets/00025bc4-b146-486e-8c01-c7869ff3108e
+
+ments/assets/ce215641-81e4-4426-b467-1c7361e528bb
+
+
+
+ur project_
+
+
 
