@@ -40,15 +40,9 @@ https://brieffly-ten.vercel.app/
 ## Demo Video/Photos  
 _Share a 2-3 minute demo video of yo
 
-https://github.com/user-attach
+https://github.com/user-attachments/assets/ce215641-81e4-4426-b467-1c7361e528bb
 
 https://github.com/user-attachments/assets/00025bc4-b146-486e-8c01-c7869ff3108e
-
-ments/assets/ce215641-81e4-4426-b467-1c7361e528bb
-
-
-
-ur project_
 
 
 
