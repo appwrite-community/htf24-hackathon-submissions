@@ -38,6 +38,10 @@ The technologies I used are:
 - Commander
 - Inquirer
 
+## Usage of Appwrite
+- Auth
+- Databases
+
 ## Project Repo  
 _Share a public repo link of your project_
 
