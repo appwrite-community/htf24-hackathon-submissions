@@ -3,22 +3,23 @@
 ## GitHub handles of Team Members  
 _Enter the GitHub handles of all your team members (including yourself) as separate bullet points_
 
-@hegdeadithyak
-@honeygyani
+- [Adithya Hegde Kota](https://github.com/hegdeadithyak)  
+- [Honey Gyani](https://github.com/honeygyani)
+
 
 ## Project Title
 _What is the name of your project?_
 
-Brieffly
+- Brieffly
 
 ## Project Description    
 _What have you built during the hackathon?_
 
-During the hackathon, I built Brieffly, an educational app aimed at simplifying complex study materials for competitive exams like IIT JEE by breaking down complicated formulas and theories into concise, easy-to-understand cards. Brieffly tackles a common problem faced by students – the overwhelming volume of information that they need to remember and understand during exam prep. Students often spend countless hours reviewing and revising, struggling to retain crucial information, which can be both mentally draining and time-consuming.
+- During the hackathon, I built Brieffly, an educational app aimed at simplifying complex study materials for competitive exams like IIT JEE by breaking down complicated formulas and theories into concise, easy-to-understand cards. Brieffly tackles a common problem faced by students – the overwhelming volume of information that they need to remember and understand during exam prep. Students often spend countless hours reviewing and revising, struggling to retain crucial information, which can be both mentally draining and time-consuming.
 
-Brieffly **generates multiple cards** for each chapter, with each card containing an important formula or concept. Every card summarises the concept in less than 60 words, and it categorises it based on difficulty (beginner, intermediate, hard,advanced). The frontend interacts with the backend, which uses the Gemini API to create these concise summaries and Appwrite DB for managing user data.
+- Brieffly **generates multiple cards** for each chapter, with each card containing an important formula or concept. Every card summarises the concept in less than 60 words, and it categorises it based on difficulty (beginner, intermediate, hard,advanced). The frontend interacts with the backend, which uses the Gemini API to create these concise summaries and Appwrite DB for managing user data.
 
-Brieffly is designed to make revision sessions more efficient, giving students an effective tool for quick revision with a clear, accessible layout and efficient content delivery.
+- Brieffly is designed to make revision sessions more efficient, giving students an effective tool for quick revision with a clear, accessible layout and efficient content delivery.
 
 
 ## Inspiration behind the Project  
