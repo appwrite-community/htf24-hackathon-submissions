@@ -2,7 +2,7 @@
 
 ## GitHub handles of Team Members  
 
-- @antrimo
+- [antrimo](https://github.com/Antrimo)
 
 ## Project Title
 ZENCASH
