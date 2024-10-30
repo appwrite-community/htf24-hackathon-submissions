@@ -1,6 +1,6 @@
 # Hackathon Submission: HealthPlus - A doctor's appointment management system 
 ## GitHub handles of Team Members  
-- [Aditya Srivastava](https://github.com/AdityaSrivastava185)
+- [@AdityaSrivastava](https://github.com/AdityaSrivastava185)
 
 ## Project Title
 HealthPlus 
