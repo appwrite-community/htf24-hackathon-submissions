@@ -41,6 +41,7 @@ The technologies I used are:
 ## Usage of Appwrite
 - Auth
 - Databases
+- Storage
 
 ## Project Repo  
 _Share a public repo link of your project_
