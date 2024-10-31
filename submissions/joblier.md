@@ -35,6 +35,8 @@ The Recruiters have their portal which allows them to post jobs with requirement
 - Jobs AI
 - AI-generated interview questions to prepare people for interview
 - Automated Notifications for developers
+- Feeback and rating system
+- Team collaboration tool(we only implemented hubs for co-creating tools)
 
 ## Inspiration behind the Project
 
