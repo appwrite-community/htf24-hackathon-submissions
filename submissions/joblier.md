@@ -23,12 +23,16 @@ _What is the story behind this project? Why did you choose to work on this speci
 The reason I chose this idea/project was...
 -->
 
-## Tech Stack    
-_How have you built this project? Mention the technologies/methods/platforms you used to build your project_
+## Tech Stack
 
-<!--
-The technologies I used...
--->
+The technologies we used for joblier are:
+
+- **Frontend**: React, Vite
+- **Backend**: Appwrite
+- **Styling**: Tailwind CSS
+- **Build Tool**: Vite
+- **Linting**: ESLint
+- **Icons**: Iconify
 
 ## Project Repo
 
