@@ -63,6 +63,7 @@ Joblier aims to help you get the hang of these three concepts all at a time with
 - **Linting**: ESLint
 - **Icons**: Iconify
 - **Languages**: JavaScript
+- **Deployment and Hosting**: Vercel for cloud hosting and deployment
 
 ## Project Repo
 
