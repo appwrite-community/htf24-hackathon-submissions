@@ -7,11 +7,12 @@
 ## Project Title
 VissiPass: An web app for Creating Dynamic Visitor Pass!
 
-## Project Description    
-VissiPass is a streamlined digital pass generation system designed to manage and organize visitor requests for organizations efficiently. Built with React.js on the frontend and Appwrite on the backend, VissiPass provides a secure and user-friendly visitor management solution.
+## Project Description
+VissiPass is a streamlined digital pass generation system designed to manage and organize visitor requests efficiently for organizations. Built with React.js on the frontend and Appwrite on the backend, VissiPass provides a secure, user-friendly solution for visitor management that modernizes and enhances the traditional approach to tracking and verifying visitor information.
 
-## Inspiration behind the Project  
-The idea behind VissiPass is to create a more civilized and organized environment for managing visitors. Many organizations face challenges with visitor tracking and security; VissiPass addresses these issues by offering a digital solution that simplifies and secures the entire visitor management process.
+## Inspiration behind the Project
+The idea behind VissiPass is to create a more organized and secure environment for managing visitors. Many organizations face ongoing challenges with visitor tracking and security, especially with manual processes that can be unreliable. VissiPass addresses these issues by offering a fully digital solution that simplifies the visitor management process, making it both efficient and secure.
+
 
 ## Tech Stack    
 - **Frontend:** React.js
