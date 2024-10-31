@@ -44,5 +44,4 @@ https://github.com/dipanshurdev/devpath
 ## Demo Video/Photos  
 _Share a 2-3 minute demo video of your project_
 
-[Deployed site:]("https://devpath.netlify.app/frontend") 
-
+[Deployed site](https://devpath.netlify.app/)
