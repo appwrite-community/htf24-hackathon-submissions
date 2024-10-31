@@ -1,7 +1,7 @@
 # Hackathon Submission: QUICK-VOCAB
 
 ## GitHub handles of Team Members  
-@opedepodepes-olugbemi
+@Opedepodepes-Olugbemi
 
 ## Project Title
 quick-vocab
