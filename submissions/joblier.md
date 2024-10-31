@@ -74,3 +74,11 @@ https://github.com/fasakinhenry/jobsearch
 ## Demo Video/Photos
 
 https://www.loom.com/share/420bf3f52038429dbed610143e738a51?sid=b9155f91-04ba-4de3-85a2-aae2fbc1a9c4
+
+1. Landing Page
+2. Signup
+3. Login
+4. Home
+5. Find Jobs
+6. Community Home
+7. Community Post
