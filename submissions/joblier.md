@@ -13,7 +13,12 @@ Joblier
 
 **AI-powered Job Search Platform**
 
-We created a platform that simplifies the process of Finding jobs with the help of AI
+We created a platform that simplifies the process of Finding jobs with the help of AI.
+
+The app has two category of users:
+
+- Recruiters
+- Job Seekers
 
 ### Features
 
