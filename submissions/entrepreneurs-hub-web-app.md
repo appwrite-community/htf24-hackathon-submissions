@@ -24,5 +24,8 @@ Appwrite Storage to save media files like ventures images and write-up documents
 ## Project Repo
 https://github.com/eliezerjoel/entrepreneurhub
 
+## Hosted project
+https://enthub-seven.vercel.app/
+
 ## Demo Video/Photos  
 https://drive.google.com/drive/folders/1SuPP2403_DQDJgSlSY2Yc6sWR4HNPL06?usp=drive_link
