@@ -11,11 +11,9 @@ Joblier
 
 ## Project Description
 
-_What have you built during the hackathon?_
+**AI-powered Job Search Platform**
 
-<!--
-The project I created is...
--->
+We created a platform that simplifies the process of Finding jobs with the help of AI
 
 ## Inspiration behind the Project
 
