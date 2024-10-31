@@ -15,6 +15,20 @@ Joblier
 
 We created a platform that simplifies the process of Finding jobs with the help of AI
 
+### Features
+
+- Search for jobs by keyword, location, and category with job filters
+- View detailed job descriptions
+- Apply for jobs directly through the app
+- Save favorite jobs for later
+- Responsive design for mobile and desktop
+- AI powered Job search
+- Community to build connections with people
+- Bounties and challenges for professionals to prove their expertise
+- Jobs AI
+- AI-generated interview questions to prepare people for interview
+- Automated Notifications for developers
+
 ## Inspiration behind the Project
 
 From my personal experience, the best ways to get jobs are by following three startegies that works 100% of the time. These strategies are:
