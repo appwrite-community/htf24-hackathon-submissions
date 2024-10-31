@@ -75,7 +75,9 @@ _Share a public repo link of your project_
 _Share a 2-3 minute demo video of your project_
 
 
-[![Watch the video](https://github.com/user-attachments/assets/f78148e4-aa37-4826-a132-15505a11604d)](https://www.youtube.com/watch?v=pXO6IXGCl1s)
+[![Watch the video](https://github.com/user-attachments/assets/71dfad97-f872-42a8-b668-e593f5e5a864)](https://www.youtube.com/watch?v=pXO6IXGCl1s)
+[![Watch the video](https://github.com/user-attachments/assets/e5618563-2ef9-417a-ba76-f2054041744b)](https://www.youtube.com/watch?v=pXO6IXGCl1s)
+
 
 You can see the promo video by clicking [this link](https://www.youtube.com/watch?v=pXO6IXGCl1s).  
 
