@@ -1,4 +1,4 @@
-# Hackathon Submission: <PROJECT_NAME>
+# Hackathon Submission: Joblier - Job Solution App
 
 ## GitHub handles of Team Members  
 _Enter the GitHub handles of all your team members (including yourself) as separate bullet points_
