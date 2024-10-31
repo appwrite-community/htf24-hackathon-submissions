@@ -75,10 +75,31 @@ https://github.com/fasakinhenry/jobsearch
 
 https://www.loom.com/share/420bf3f52038429dbed610143e738a51?sid=b9155f91-04ba-4de3-85a2-aae2fbc1a9c4
 
-1. Landing Page
-2. Signup
-3. Login
-4. Home
-5. Find Jobs
-6. Community Home
-7. Community Post
+Landing Page
+
+![image](https://github.com/user-attachments/assets/d14090d9-2ab7-45b1-85b2-e48f239ec0bd)
+
+Signup
+
+![image](https://github.com/user-attachments/assets/bacc46e4-5bd2-4c68-a1ed-1bb5d17d1270)
+
+Login
+
+![image](https://github.com/user-attachments/assets/a38d2181-4bab-4b3e-b88f-69b694178194)
+
+Home
+
+![image](https://github.com/user-attachments/assets/8a265c92-183d-448d-9d32-246c2978f281)
+
+Find Jobs
+
+![image](https://github.com/user-attachments/assets/8a0a9fab-e2e5-475a-801f-efd38c25d3bb)
+
+Community Home
+
+![image](https://github.com/user-attachments/assets/42476e7f-703a-4df4-9256-6e45a3225bb4)
+
+Community Post
+
+![image](https://github.com/user-attachments/assets/fce6e7da-8418-427e-89b0-647e8e21ab97)
+
