@@ -4,6 +4,7 @@
 
 - [@onukwilip](https://github.com/onukwilip)
 - [@python-fuse](https://github.com/python-fuse)
+- [@maxe01](https://github.com/maxe01)
 
 ## Project Title
 
