@@ -40,11 +40,7 @@ Suraksha has received positive feedback for enhancing users' sense of security. 
 
 ## Repository
 
-Access the repository here: [Suraksha on GitHub](https://github.com/ritvijapachori/Surkasha)
-
-## Demo Video/Photos/Link
-
-Check out the project here: https://ritvijapachori.github.io/surkasha-web
+Access the repository here: [Suraksha on GitHub](https://github.com/ritvijapachori/Suraksha)
 
 ## Project Link
 
