@@ -1,4 +1,4 @@
-# Hackathon Submission: Joblier - Job Solution App
+# Hackathon Submission: Joblier - Find your dream job with joblier's smart search
 
 ## GitHub handles of Team Members  
 _Enter the GitHub handles of all your team members (including yourself) as separate bullet points_
@@ -12,7 +12,7 @@ _Enter the GitHub handles of all your team members (including yourself) as separ
 -->
 
 ## Project Title
-_What is the name of your project?_
+Joblier:  
 
 <!--
 CodeCapture
