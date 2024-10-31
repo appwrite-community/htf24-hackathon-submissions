@@ -40,5 +40,7 @@ https://pipelineui-appwrite-env.up.railway.app/
 > the two submissions. Currently I made the project public in order to check the deploy status of this environment
 >
 > Appwrite deployments: https://github.com/riccardoperra/pipelineui/deployments/appwrite
+> 
 > Appwrite public deployment: https://railway.app/project/8e131c67-73c1-4ab6-9fa4-31dfa6c9000e -> Go to appwrite environment
+> 
 > Deploy file: https://github.com/riccardoperra/pipelineui/blob/8ba00ed19abf7d1e5884aadcb79d98cc77dcfdea/.github/workflows/deploy.yml#L10
