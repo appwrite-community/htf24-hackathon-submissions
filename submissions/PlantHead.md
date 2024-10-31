@@ -1,3 +1,4 @@
+
 # Hackathon Submission: **PlantHead - Your Social Plant Paradise**
 
 ## GitHub handles of Team Members  
@@ -22,13 +23,18 @@ The project is built using:
 - Appwrite Authentication: Implements secure user authentication, handling sign-ups, log-ins, and session management using JWT
 - Appwrite Databases: Manages structured storage for post information and user plant data
 - Appwrite Storage: Handles secure storage and retrieval of plant images and user-generated content
-
+- Appwrtite Functions: Manages an trefleAPI and gives to the app respecting CORS policy
+ 
 ## Project Repo  
 [GitHub Repository: Plant-head](https://github.com/patel-aum/planthead)  
 
 ## Demo Video/Photos/Link
 - Live Demo: [Vercel Deployment](https://plant-head.vercel.app/)
 - Demo Video: [Video URL](https://drive.google.com/file/d/1jrTd-_9qqoUX2ELj_LHl4RXPMXEIsMB5/view?usp=sharing)
+
+
+https://github.com/user-attachments/assets/6ccfbc5b-7120-499a-993d-fad69698fa5a
+
 
 ## Anything Else You Want To Share With Us?
 Working with Appwrite was mostly great - loved the quick setup and real-time database features! Though there were some learning curves with queries, overall it proved to be the perfect choice for PlantHead. Looking forward to building more features with it!
