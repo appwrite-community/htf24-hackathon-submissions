@@ -69,7 +69,7 @@ Joblier aims to help you get the hang of these three concepts all at a time with
 
 ## Project Repo
 
-https://github.com/fasakinhenry/joblier
+https://github.com/fasakinhenry/jobsearch
 
 ## Demo Video/Photos
 
