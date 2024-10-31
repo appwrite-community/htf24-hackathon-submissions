@@ -30,7 +30,7 @@ The motivation behind this project was to create a fast and reliable communicati
   Utilized to ensure that messages are updated in real time across all connected users as soon as a new message is added to the database.
 
 ## Project Repo  
-[https://github.com/your-github-handle/real-time-chat-app]
+https://github.com/akshayram1/React-Appwrite-RealTime-Chat
 ## Demo Video/Photos/Link  
 Demo Video: [https://youtu.be/17s7UFNR7QM]
 
