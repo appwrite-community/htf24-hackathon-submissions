@@ -49,7 +49,7 @@ This project was born out of personal frustration - the tedious process of sifti
 A video demo can be viewed here: https://drive.google.com/drive/folders/16b-4YZDSZJGb6B2EklKBjEwLCFsTVARx?usp=sharing
 
 
-The application can also be reached using this link: 
+The application can also be reached using this link: https://patronus-vasu1712.vercel.app/
 
 
 ## Future Prospects for Patronus
