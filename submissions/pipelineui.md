@@ -25,6 +25,8 @@ has been linked in the [Project README](https://github.com/riccardoperra/pipelin
 
 https://github.com/riccardoperra/pipelineui/tree/appwrite
 
+Note: my submission is on appwrite branch
+
 ## Demo Video/Photos  
 
 https://pipelineui-appwrite-env.up.railway.app/
