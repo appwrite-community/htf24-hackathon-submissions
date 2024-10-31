@@ -20,6 +20,8 @@ The app has two category of users:
 - Recruiters
 - Job Seekers
 
+The Recruiters have their portal which allows them to post jobs with requirement and see job seekers profile with their stats and all garnered through their portal. They can also see top professionals in the fields and initiate conversations with them.
+
 ### Features
 
 - Search for jobs by keyword, location, and category with job filters
