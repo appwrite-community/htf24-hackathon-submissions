@@ -17,11 +17,17 @@ We created a platform that simplifies the process of Finding jobs with the help 
 
 ## Inspiration behind the Project
 
-_What is the story behind this project? Why did you choose to work on this specific idea?_
+From my personal experience, the best ways to get jobs are by following three startegies that works 100% of the time. These strategies are:
 
-<!--
-The reason I chose this idea/project was...
--->
+- Building your skills
+- Connecting with people(Building your connection)
+- Building your reputation
+
+These steps are really explanatory and these three concepts must be mastered so you can regarded when it comes to Job.
+
+It is advisable that you build your skills and then connect with people and build your reputation as a good and knowledgeable person that can be trusted with Jobs and would deliver with satisfaction. You can do all at once and that's why we built Joblier.
+
+Joblier aims to help you get the hang of these three concepts all at a time with the best user experience for everyone. Both the employers and people searching for Jobs.
 
 ## Tech Stack
 
