@@ -29,7 +29,7 @@ https://github.com/riccardoperra/pipelineui/tree/appwrite
 
 https://pipelineui-appwrite-env.up.railway.app/
 
-https://github.com/user-attachments/assets/9ef03f01-13b2-4d33-b1b1-1bfb88c938f4
+https://github.com/user-attachments/assets/aa92a7f0-ebf0-40f7-ba05-50f225e5f302
 
 > [!NOTE]
 > 
