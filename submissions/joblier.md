@@ -73,8 +73,4 @@ https://github.com/fasakinhenry/jobsearch
 
 ## Demo Video/Photos
 
-_Share a 2-3 minute demo video of your project_
-
-<!--
-https://www.youtube.com/watch?v=9IBaX1avYWc
--->
+https://www.loom.com/share/420bf3f52038429dbed610143e738a51?sid=b9155f91-04ba-4de3-85a2-aae2fbc1a9c4
