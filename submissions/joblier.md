@@ -1,22 +1,13 @@
-# Hackathon Submission: <PROJECT_NAME>
+# Hackathon Submission: Joblier
 
 ## GitHub handles of Team Members  
-_Enter the GitHub handles of all your team members (including yourself) as separate bullet points_
 
-<!--
-- @adityaoberai
-- @tessamero
-.
-.
-.
--->
+- @fasakinhenry
+- @fisayo-dev
 
 ## Project Title
-_What is the name of your project?_
 
-<!--
-CodeCapture
--->
+Joblier
 
 ## Project Description    
 _What have you built during the hackathon?_
@@ -39,12 +30,9 @@ _How have you built this project? Mention the technologies/methods/platforms you
 The technologies I used...
 -->
 
-## Project Repo  
-_Share a public repo link of your project_
+## Project Repo
 
-<!--
-https://github.com/code-capture/CodeCapture-Xamarin
--->
+https://github.com/fasakinhenry/joblier
 
 ## Demo Video/Photos  
 _Share a 2-3 minute demo video of your project_
