@@ -15,8 +15,7 @@ GitHub thanks to their language server integration.
 
 ## Inspiration behind the Project  
 We are using IntelliJ Idea at work, and one day in September my colleague and I were struggling a lot
-to create a pipeline for GitLab since that editor doesn't have any type of autocompletion. Then what if we had a builder 
-directly from UI that that helps us fill everything without headache? 🤣
+to create a pipeline for GitLab since that editor doesn't have any type of autocompletion. So why not create a builder from scratch that allows you to create entire workflow files? 🤣
 
 ## Tech Stack    
 This project has been built with SolidJS and SolidStart with enabled SSR, Vanilla Extract for styling and many other dependencies that 
@@ -24,8 +23,17 @@ has been linked in the [Project README](https://github.com/riccardoperra/pipelin
 
 ## Project Repo  
 
-https://github.com/riccardoperra/pipelineui
+[https://github.com/riccardoperra/pipelineui](https://github.com/riccardoperra/pipelineui/tree/appwrite)
 
 ## Demo Video/Photos  
 
 https://pipelineui-appwrite-env.up.railway.app/
+
+> **Disclaimer**
+> 
+> This project will partecipate also in [SolidHack 2024](https://hack.solidjs.com/). I'm linking here the `appwrite` branch that will not be updated
+> until the end of the appwrite hackathon. Also the application has been hosted in `railway` with a custom environment in order to separate
+> the two submissions.
+>
+> Appwrite deployments: https://github.com/riccardoperra/pipelineui/deployments/appwrite
+> Deploy file: https://github.com/riccardoperra/pipelineui/blob/8ba00ed19abf7d1e5884aadcb79d98cc77dcfdea/.github/workflows/deploy.yml#L10
