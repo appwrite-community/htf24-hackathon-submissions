@@ -1,4 +1,4 @@
-# Hackathon Submission: NyxAPI
+# Hackathon Submission: <PROJECT_NAME>
 
 
 ## GitHub handles of Team Members  
