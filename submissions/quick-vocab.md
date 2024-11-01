@@ -24,7 +24,7 @@ Gemini 1.5 pro(ai model)
 appwrite(database and auth)
 
 ## Project Repo  
-[https://github.com/code-capture/CodeCapture-Xamarin](https://github.com/Opedepodepes-Olugbemi/quick-vocab)
+https://github.com/Opedepodepes-Olugbemi/quick-vocab
 
 ## Demo Video/Photos  
 ![image](https://github.com/user-attachments/assets/0d16d07b-6349-4a60-9ab7-41d54a33756e)
