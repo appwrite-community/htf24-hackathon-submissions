@@ -38,3 +38,8 @@ https://github.com/rajeev033/SnapStudio
 ## Demo Video/Photos  
 
 https://www.loom.com/share/68ad0d1ab8444095a217ee875dc77073?sid=b7fd1602-ad18-42b1-946b-36f4178c7b41
+
+## Deployment Link
+
+You can try this app here-
+http://20.244.44.25
