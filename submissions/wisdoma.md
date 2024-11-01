@@ -1,4 +1,4 @@
-# Hackathon Submission: Wisdoma: Your Notes Visualized through Knowledge Graphs
+# Hackathon Submission: Wisdoma: Your Note-Taking App, Visualizing Your Notes through Knowledge Graphs
 
 ## GitHub handles of Team Members  
 [@OMGATE23](https://github.com/OMGATE23)
