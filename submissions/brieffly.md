@@ -33,7 +33,9 @@ _How have you built this project? Mention the technologies/methods/platforms you
 To build Brieffly, I used Next.js for both the frontend and backend, leveraging its full-stack capabilities to streamline the app's development. The frontend in Next.js creates an interactive, responsive interface, while the backend handles API routes and manages data flow. I integrated the Gemini API to generate concise summaries for complex concepts and formulas, while **Appwrite DB** stores and manages user data efficiently.
 
 ## Project Repo  
-_Share a public repo link of your project_
+_Share a public repo link of your project
+
+https://github.com/hegdeadithyak/Brieffly
 
 https://brieffly-ten.vercel.app/
 
