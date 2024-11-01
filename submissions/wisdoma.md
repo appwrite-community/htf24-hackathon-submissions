@@ -1,7 +1,7 @@
 # Hackathon Submission: Wisdoma: Your Notes Visualized through Knowledge Graphs
 
 ## GitHub handles of Team Members  
-@OMGATE23
+[@OMGATE23](https://github.com/OMGATE23)
 
 ## Project Title
 **Wisdom: Your Notes Visualized through Knowledge Graphs**
