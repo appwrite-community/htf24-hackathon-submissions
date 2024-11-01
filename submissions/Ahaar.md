@@ -2,7 +2,8 @@
 
 ## GitHub Handle of Team Member  
 
-- @isatyamks
+- [@isatyamks](https://github.com/isatyamks)
+
 
 ## Project Title  
 
@@ -16,13 +17,24 @@
 
 The inspiration for Ahaar comes from the urgent need to address the growing issue of diet-related health concerns, particularly in India. Millions face health problems like obesity, diabetes, and heart disease due to poor dietary choices, yet there’s limited technology available to support informed food decisions. Our goal was to create a solution that provides real-time nutritional guidance, enabling users to understand the impact of their food and make healthier lifestyle choices. Ahaar bridges this gap by offering accessible nutritional information that can improve users' long-term health and well-being.
 
-## Tech Stack  
+## Tech Stack
 
-Ahaar is built with the **Gemini Model** and **Foodvisor Model** for initial food detection, further enhanced by a custom-trained model focused on Indian foods to ensure cultural relevance and accuracy. **TensorFlow** was used for model building and training, with **NumPy** and **Pandas** for data manipulation and analysis, and **Seaborn** for visualizing model performance metrics. The application integrates with **Flask** as the backend framework, while **HTML**, **CSS**, **Python**, and **JavaScript** power the frontend, creating a seamless and interactive experience for users.
+- **OpenCV** (`cv2`): For image processing and food recognition.
+- **NumPy**: For numerical operations and data handling.
+- **Pandas**: For data manipulation and management.
+- **Seaborn** and **Matplotlib** (`plt`): For data visualization and performance analysis.
+- **TensorFlow**: For building and training AI models.
+- **Keras** (`tensorflow.keras`): High-level API for building and training deep learning models.
+- **Pillow (PIL)**: For handling image files and formats.
+- **Scikit-Image** (`skimage`): For image reading and processing.
+- **Flask**: Web framework to handle the backend, API requests, and routing.
+- **Flask-Session**: For session management in Flask.
+- **Appwrite**: For authentication and user management.
+- **Google Generative AI**: For generative AI features.
 
 ## Project Repo  
 
-[https://github.com/isatyamks/htf24-hackathon-submissions/tree/Ahaar](https://github.com/isatyamks/htf24-hackathon-submissions/tree/Ahaar)
+[https://github.com/isatyamks/Ahaar](https://github.com/isatyamks/Ahaar)
 
 ## Demo Video/Photos  
 
