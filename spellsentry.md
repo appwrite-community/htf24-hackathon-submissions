@@ -57,6 +57,4 @@ https://github.com/madhav-relish/SpellSentry
 ## Demo Video/Photos  
 _Share a 2-3 minute demo video of your project_
 
-<!--
-https://www.youtube.com/watch?v=9IBaX1avYWc
--->
+https://www.veed.io/view/9c77884c-6ec1-4fec-90be-dc7c0a6bc05e?panel=share
