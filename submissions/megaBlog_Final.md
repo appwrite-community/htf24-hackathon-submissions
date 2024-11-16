@@ -17,7 +17,7 @@
 -->
 
 ## Project Title
-_What is the name of your project?_
+
 
 megaBlog_Final
 <!--
@@ -40,8 +40,6 @@ Our blog application, built with React and powered by Appwrite, is a sleek, resp
 - Rich Text Formatting: A rich text editor tinymce allows for diverse formatting options, enabling users to enhance their content visually.
 
 - Contact Us Feature: Integrated with Web3Forms API, users can easily reach out for inquiries or support.
-
-
 
 <!--
 
